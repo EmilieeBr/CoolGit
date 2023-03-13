@@ -1,1 +1,2 @@
-Bonjour comment allez-vous ? 
+LOCAL
+Bonjour comment allez-vous ?
